@@ -1,2 +1,3 @@
-# PROJECT-1
+# Python projects
 ROCK-PAPER-SECISSORS GAME
+password genrator
